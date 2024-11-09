@@ -6,7 +6,7 @@
 
 **Example:** let id : string | number
 
-# Significane of INTERSECTION
+## Significane of INTERSECTION
 
 **Intersection :** Intersection types allows us to combine multiple types into one. It's ensure that this variable or object should have all properties of type A and type B.  
 
